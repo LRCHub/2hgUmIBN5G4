@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "base_track": "君はこの夏、恋をする",
+  "base_artist": "≠ME",
+  "createdAt": "2026-03-23T11:13:21.055997Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君はこの夏、恋をする",
+      "artist": "Not Equal Me",
+      "has_synced": true,
+      "path": "select/01_君はこの夏、恋をする_Not_Equal_Me.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君はこの夏、恋をする",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/02_君はこの夏、恋をする_≠ME.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君はこの夏、恋をする",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_君はこの夏、恋をする_≠ME.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "君はこの夏、恋をする",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/localdb_01_君はこの夏、恋をする_≠ME.lrc",
+      "repo_name": "2wtb7QdR5kw"
+    }
+  ]
+}
